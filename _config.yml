@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yagan Hazard"
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Economics PhD Candidate"
   location         : "Paris, France"
   employer         :
