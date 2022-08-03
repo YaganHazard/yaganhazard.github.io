@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yagan Hazard"
 title_separator          : "-"
 name                     : &name "Yagan Hazard"
-description              : &description "Economics PhD Candidate"
+description              : &description "Yagan Hazard academic website. Economics PhD Candidate at the Paris School of Economics (PSE). Work in progress, working papers, publications, teaching, CV."
 url                      : https://yaganhazard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YaganHazard/yaganhazard.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yagan Hazard"
-  avatar           : "images/profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profile.png"
+  bio              : "Economics PhD Candidate"
+  location         : "Paris, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "HazardYagan"
   vine             :
   weibo            :
   xing             :
