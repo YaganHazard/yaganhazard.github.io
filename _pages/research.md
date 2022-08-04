@@ -95,10 +95,6 @@ Plan: We will adapt the encouragement design based on the June 2022 pilot, and l
 </small><br><br/></div>
 
 
-
-
-
-
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
@@ -111,4 +107,4 @@ Plan: We will adapt the encouragement design based on the June 2022 pilot, and l
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">More</button>
