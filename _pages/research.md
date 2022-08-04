@@ -20,11 +20,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <small>[ <a href="#/" onclick="visib('improve-late')">More</a> ] </small>
 
 <div id="improve-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Research question: Can we construct an estimator of the LATE with lower variance when there is first-stage heterogeneity along observable covariates, and treatment effect heterogeneity is of the order of magnitude of sampling variation ($O(1/\sqrt{n})$)?<br/>
+**Research question**: Can we construct an estimator of the LATE with lower variance when there is first-stage heterogeneity along observable covariates, and treatment effect heterogeneity is of the order of magnitude of sampling variation ($\small O(1/\sqrt{n})$)?<br/><br/>
 
-Advancement: Existing preliminary draft. Presented in PSE-CREST internal econometrics seminar and Brown Econometrics Coffee seminar. Simulations of the method demonstrated its potential for the improvement of inference on LATE in certain contexts, as well as the need for some careful use of data splitting and cross-fitting in order to avoid severe bias in finite samples.<br/>
+**Advancement**: Existing preliminary draft. Presented in PSE-CREST internal econometrics seminar and Brown Econometrics Coffee seminar. Simulations of the method demonstrated its potential for the improvement of inference on LATE in certain contexts, as well as the need for some careful use of data splitting and cross-fitting in order to avoid severe bias in finite samples.<br/><br/>
 
-Plan: Working paper to be released soon.
+**Plan**: Working paper to be released soon.
 </small><br><br/></div>
 
 
