@@ -20,7 +20,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <small>[ <a href="#/" onclick="visib('improve-late')">More</a> ] </small>
 
 <div id="improve-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
-<b>Research question</b>: Can we construct an estimator of the LATE with lower variance when there is first-stage heterogeneity along observable covariates, and treatment effect heterogeneity is of the order of magnitude of sampling variation ($\footnotesize O(1/\sqrt{n})$)?<br/><br/>
+<b>Research question</b>: Can we construct an estimator of the LATE with lower variance when there is first-stage heterogeneity along observable covariates, and treatment effect heterogeneity is of the order of magnitude of sampling variation?<br/><br/>
 
 <b>Advancement</b>: Existing preliminary draft. Presented in PSE-CREST internal econometrics seminar and Brown Econometrics Coffee seminar. Simulations of the method demonstrated its potential for the improvement of inference on LATE in certain contexts, as well as the need for some careful use of data splitting and cross-fitting in order to avoid severe bias in finite samples.<br/><br/>
 
@@ -32,7 +32,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <small>[ <a href="#/" onclick="visib('bias-aware-late')">More</a> ] </small>
 
 <div id="bias-aware-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
-<b>Research question</b>: In the spirit of the project "Improving LATE estimation ..." (with S. Loewe), yet with a focus on inference, and under the milder restriction of bounded treatment effect heterogeneity. This allows to consider bias-aware inference techniques, that have received a renewed attention in the recent econometric literature on treatment effect estimation.<br/><br/>
+<b>Research question</b>: In the spirit of the project "Improving LATE estimation ..." (with S. Loewe), this work focuses on inference on (instead of estimation of) the LATE parameter, under the milder assumption of <i>bounded</i> treatment effect heterogeneity. This allows to consider bias-aware inference techniques, that have received a renewed attention in the recent econometric literature on treatment effect estimation.<br/><br/>
 
 <b>Advancement</b>: Project started in December 2021. Simulations applying the method are encouraging, showing the scope for improvement of inferential procedures in this framework.
 </small><br><br/></div>
