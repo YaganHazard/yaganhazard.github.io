@@ -16,13 +16,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # Econometrics 
 
-**Improving LATE estimation in experiments with imperfect compliance: selecting instruments with $1^{\text{st}}$ stage heterogeneity and heterogeneous treatment effects** (with S. Loewe). Draft coming soon.<br/>
-<small>[ <a href="#/" onclick="visib('improve-late')">Abstract</a> ] </small>
+**Improving LATE estimation in experiments with imperfect compliance: selecting instruments with $1^{\text{st}}$ stage heterogeneity and heterogeneous treatment effects** (with S. Loewe). <br/>
+<small>[ <a href="#/" onclick="visib('improve-late')">Abstract</a> ] | [Draft][1] </small>
 
 <div id="improve-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Experiments with imperfect compliance are ubiquitous in applied economics and policy evaluation. Estimation of causal effects in such setting relies on an Instrumental Variable (IV) strategy, which can often yield imprecise and thus possibly uninformative inference when compliance rates are low. We tackle this issue by proposing a Test-and-Select estimator that exploits covariate information to restrict estimation to a subpopulation with non-zero compliance. We derive the asymptotic properties of our proposed estimator under standard and weak-IV-like asymptotics, and study its finite sample properties in Monte-Carlo simulations. We clarify under which conditions it dominates the usual 2SLS estimator in terms of precision. Under an assumption on the degree of treatment effect heterogeneity, our estimator remains first-order unbiased with respect to the Local Average Treatment Effect (LATE) estimand, setting it apart from alternatives in the burgeoning literature on the use of covariates to improve the precision of IV estimators. This robustness to treatment effect heterogeneity is illustrated using Monte-Carlo simulations and an application to a large-scale experiment on job search counseling. Our proposal therefore provides an alternative to applied economists seeking an improvement in precision while keeping an estimator more tightly linked to the original LATE estimand.
 </small><br><br/></div>
-
+[1]: {{ site.baseurl }}{% link assets/files/LATEPS_JMP.pdf %}
 
 **Bias-aware inference on LATE with bounded treatment effect heterogeneity** (with X. D'Haultfoeuille and S. Loewe). <br/>
 <small>[ <a href="#/" onclick="visib('bias-aware-late')">Abstract</a> ] </small>
