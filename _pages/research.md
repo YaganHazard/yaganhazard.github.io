@@ -16,7 +16,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # Econometrics 
 
-**Improving LATE estimation in experiments with imperfect compliance: selecting instruments with $1^{\text{st}}$ stage heterogeneity and heterogeneous treatment effects** (with S. Loewe). <br/>
+**Improving LATE estimation in experiments with imperfect compliance** (with S. Loewe). <br/>
 <small>[ <a href="#/" onclick="visib('improve-late')">Abstract</a> ] | [Draft][1] </small>
 
 <div id="improve-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
