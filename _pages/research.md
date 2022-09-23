@@ -17,84 +17,62 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # Econometrics 
 
 **Improving LATE estimation in experiments with imperfect compliance: selecting instruments with $1^{\text{st}}$ stage heterogeneity and heterogeneous treatment effects** (with S. Loewe). Draft coming soon.<br/>
-<small>[ <a href="#/" onclick="visib('improve-late')">More</a> ] </small>
+<small>[ <a href="#/" onclick="visib('improve-late')">Abstract</a> ] </small>
 
 <div id="improve-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
-<b>Research question</b>: Can we construct an estimator of the LATE with lower variance when there is first-stage heterogeneity along observable covariates, and treatment effect heterogeneity is of the order of magnitude of sampling variation?<br/><br/>
-
-<b>Advancement</b>: Existing preliminary draft. Presented in PSE-CREST internal econometrics seminar and Brown Econometrics Coffee seminar. Simulations of the method demonstrated its potential for the improvement of inference on LATE in certain contexts, as well as the need for some careful use of data splitting and cross-fitting in order to avoid severe bias in finite samples.<br/><br/>
-
-<b>Plan</b>: Working paper to be released soon.
+Experiments with imperfect compliance are ubiquitous in applied economics and policy evaluation. Estimation of causal effects in such setting relies on an Instrumental Variable (IV) strategy, which can often yield imprecise and thus possibly uninformative inference when compliance rates are low. We tackle this issue by proposing a Test-and-Select estimator that exploits covariate information to restrict estimation to a subpopulation with non-zero compliance. We derive the asymptotic properties of our proposed estimator under standard and weak-IV-like asymptotics, and study its finite sample properties in Monte-Carlo simulations. We clarify under which conditions it dominates the usual 2SLS estimator in terms of precision. Under an assumption on the degree of treatment effect heterogeneity, our estimator remains first-order unbiased with respect to the Local Average Treatment Effect (LATE) estimand, setting it apart from alternatives in the burgeoning literature on the use of covariates to improve the precision of IV estimators. This robustness to treatment effect heterogeneity is illustrated using Monte-Carlo simulations and an application to a large-scale experiment on job search counseling. Our proposal therefore provides an alternative to applied economists seeking an improvement in precision while keeping an estimator more tightly linked to the original LATE estimand.
 </small><br><br/></div>
 
 
 **Bias-aware inference on LATE with bounded treatment effect heterogeneity** (with X. D'Haultfoeuille and S. Loewe). <br/>
-<small>[ <a href="#/" onclick="visib('bias-aware-late')">More</a> ] </small>
+<small>[ <a href="#/" onclick="visib('bias-aware-late')">Abstract</a> ] </small>
 
 <div id="bias-aware-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
-<b>Research question</b>: In the spirit of the project "Improving LATE estimation ..." (with S. Loewe), this work focuses on inference on (instead of estimation of) the LATE parameter, under the milder assumption of <i>bounded</i> treatment effect heterogeneity. This allows to consider bias-aware inference techniques, that have received a renewed attention in the recent econometric literature on treatment effect estimation.<br/><br/>
-
-<b>Advancement</b>: Project started in December 2021. Simulations applying the method are encouraging, showing the scope for improvement of inferential procedures in this framework.
+As a follow-up research project, this work consider the setting studied in Hazard and Löwe (2022, see above) under the milder restriction of bounded treatment effect heterogeneity. We consider the use of bias-aware inference techniques, that have received a renewed attention in the recent econometric literature on treatment effect estimation. In the case of LATE estimation with heterogeneous first-stages across groups defined by covariates, our assumption of bounded treatment effect heterogeneity yields a set of restrictions on the relationship between the Intention-to-Treat (ITT) and the first-stage statistics within each group. We (i) derive the worst-case bias of an Anderson-Rubin statistic in this framework, (ii) propose a procedure to create bias-aware Confidence Intervals (CIs) for the LATE by (repeated) test inversion, and (iii) study the properties of the resulting CIs compared to standard inferential procedures.
 </small><br><br/></div>
 
 
 **Empirical welfare maximization and optimal matching policies** (with T. Kitagawa). <br/>
-<small>[ <a href="#/" onclick="visib('EWM-opt-match')">More</a> ] </small>
+<small>[ <a href="#/" onclick="visib('EWM-opt-match')">Abstract</a> ] </small>
 
 <div id="EWM-opt-match" style="display: none; text-align: justify; line-height: 1.2" ><small>
-<b>Research question</b>: Suppose a policy maker has to choose (based on quasi-experimental data) how to match two types of individuals (job seekers and caseworkers, students and teachers etc.) to maximize a given measure of output (job finding rate, grades etc.). How well would perform a decision rule that would implement the allocation with the highest possible output \textit{estimated from the sample} (compared to the \textit{actual} optimal allocation)? Such a decision rule is called \textit{empirical welfare maximization}, and earlier work by T. Kitagawa and A. Tetenov (2018) have already derive finite sample guarantees of its performance in finite samples for the choice of a binary treatment --- but not for the choice of an entire matching policy, as is the goal of this project. <br/><br/>
-
-<b>Advancement</b>: Project started in mid-March 2022.
+Suppose a policy maker has to choose (based on quasi-experimental data) how to match two types of individuals (e.g., job seekers and caseworkers, students and teachers etc.) to maximize a given measure of output (job finding rate, grades etc.). Following the empirical welfare maximization principle, a feasible decision rule could be to implement the allocation that would yield the highest possible output as estimated from the sample. How well would perform such a decision rule compared to the actual optimal allocation? Earlier work by T. Kitagawa and A. Tetenov (2018) have already derive finite sample guarantees on the performance of such rules for the choice of a binary treatment --- but not for the choice of an entire matching policy, as is the goal of this project. Building on the optimal transport literature, we aim at deriving such bounds in this particular setting.
 </small><br><br/></div>
 
 # Labor Economics 
 
 **Directing Job Search: A Large Scale Experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). Draft coming soon.<br/>
-<small>[ <a href="#/" onclick="visib('lbb-job-search')">More</a> ] </small>
+<small>[ <a href="#/" onclick="visib('lbb-job-search')">Abstract</a> ] </small>
 
 <div id="lbb-job-search" style="display: none; text-align: justify; line-height: 1.2" ><small>
-<b>Research question</b>: Can we re-direct job search effort of job seekers towards firms with higher hiring prospects? What are the effects on job seekers finding rate? On firms' hiring behavior? We ran a large-scale experiment (800,000 job seekers) based on a job search online platform (La Bonne Boîte).<br/><br/>
-
-<b>Advancement</b>: Main experiment run in November 2019 (mailing 800,000 job seekers + randomizing firms' ranking on an major online platform's webpages). $1^{\text{st}}$ draft produced in March 2020. Selected for and presented in the Matching Workers and Jobs Online - 3rd IDSC of IZA/University of Luxembourg Workshop (September 2020). Selected and presented by myself in the 2022 North American Winter Meetings of the Econometric Society (January 2022).<br/><br/>
-
-<b>Plan</b>: Ongoing major revisions, new working paper to be released soon. Companion paper focusing on the effect on firms' hiring behavior to be drafted next (depending on ongoing analyses).
+We analyze the employment effects of directing job seekers' applications towards establishments likely to recruit, building upon an existing Internet platform developed by the French public employment service. Our two-sided randomization design, with about 1.2 million job seekers and 100,000 establishments, allows us to precisely measure the activation and redirection effects of the recommender system at hand. Indeed, aside from the overall effect on employment of our intervention --- a 2\% increase in job finding rates for women, who appear to be more activated by our treatment --- part of our design aimed at reallocating the workforce from tight to slack markets in order to reduce the occupational mismatch. Building on the recent literature in the econometrics of interference effects, we estimate that by redirecting the search effort of some job seekers outside their initial job market, we reduced congestion in tight market --- without this being offset by the increased tightness in initially slack markets.
 </small><br><br/></div>
 
 
 **Evaluating the effect of training programs on occupational transitions: a correspondence study** (with G. Azmat, L. Behaghel, R. Rathelot and J. Sultan).<br/>
-<small>[ <a href="#/" onclick="visib('CS-study-training')">More</a> ] </small>
+<small>[ <a href="#/" onclick="visib('CS-study-training')">Abstract</a> ] </small>
 
 <div id="CS-study-training" style="display: none; text-align: justify; line-height: 1.2" ><small>
-<b>Research question</b>: To which extent can (short/long) training programs help in moving from slack to tight labor markets? In order to answer this question, we send firms fake CVs where we manipulate the occupation the applicant used to work in, and the type of training s/he has received related to the occupation firms are hiring in. <br/><br/>
-
-<b>Advancement</b>: Grant from Dares (EUR 289,656). Ongoing correspondence study (since December 2021). Preliminary results are encouraging, showing contrasts between the different versions of the CVs.
+To which extent can short and/or long training programs help in moving from slack to tight labor markets? In order to answer this question, we send to firms fake CVs where we manipulate the occupation the applicant used to work in, and the type of training s/he has received related to the occupation firms are hiring in. Preliminary results are encouraging, showing contrasts between the different versions of the CVs tested. We plan on studying the heterogeneity of the effect of training programs on callback rates depending on labor market tightness, and relate it to the theoretical predictions of a search and matching model of the labor market.
 </small><br><br/></div>
 
 
 **Measuring occupational distances and the aggregate potential of training policies for labor force reallocation** (with D. Mayaux and T. Zuber).<br/>
-<small>[ <a href="#/" onclick="visib('occ-distance-training')">More</a> ] </small>
+<small>[ <a href="#/" onclick="visib('occ-distance-training')">Abstract</a> ] </small>
 
 <div id="occ-distance-training" style="display: none; text-align: justify; line-height: 1.2" ><small>
-<b>Research question</b>: How related are different jobs in terms of skills? To what extent training programs allow to move across jobs that differ in skills? How can this reduce the ``mismatch'' unemployment --- i.e., the unemployment due to unbalances in labor demand vs. supply across occupations?<br/><br/>
-
-<b>Advancement</b>: Grant from Dares (EUR 61,221). Research assistant skilled in computer sciences hired (since October 2021), working on text analysis of vacancy data in order to create indexes of ``skill distance'' across occupations.<br/><br/>
-
-<b>Plan</b>: In June 2022, we presented preliminary results of our analyses making use of the skill distance measures produced --- based on text analyses of vacancy data and dataset gathering Pôle emploi expert knowledge --- to describe the labor supply reallocations associated with training programs. Comparing such movements in relationship with labor market tightness measures, we aim to assess the extent to which public funded training programs contribute (in the aggregate) to the reduction of mismatch unemployment.
+How related are different jobs in terms of skills? To what extent training programs allow to move across jobs that differ in skills, and to what extent can this reduce the ``mismatch'' unemployment --- i.e., the unemployment due to unbalances in labor demand vs. supply across occupations? The existing literature often answered the first question based on expert knowledge and existing job classification systems (O*NET, ROME classification in France etc.). Instead, we propose to build new measures of skill proximity across jobs based on job descriptions from vacancy data --- using state-of-the-art Natural Language Processing (NLP) techniques. Making use of the skill distance measure produced, we describe the labor supply reallocations associated with the use of training programs by french job seekers --- using comprehensive administrative data on unemployment spells, training use and employer-employee data. Comparing such occupational transitions in relationship with labor market tightness measures, we aim to assess the extent to which public funded training programs contribute to the reduction of mismatch unemployment.
 </small><br><br/></div>
 
 
-**Evaluating the effect of online training programs on employment: a randomized control trial** (with P. Arni, L. Behaghel, M. Gurgand, R. Rathelot and T. Zuber).<br/>
-<small>[ <a href="#/" onclick="visib('RCT-foad')">More</a> ] </small>
+**Evaluating the effect of online training programs on employment: a randomized controlled trial** (with P. Arni, L. Behaghel, M. Gurgand, R. Rathelot and T. Zuber).<br/>
+<small>[ <a href="#/" onclick="visib('RCT-foad')">Abstract</a> ] </small>
 
 <div id="RCT-foad" style="display: none; text-align: justify; line-height: 1.2" ><small>
-<b>Research question</b>: What is the effect of (online) training programs on the job finding rate and wages of job seekers? <br/><br/>
-
-<b>Advancement</b>: Grant from Dares (EUR 190,386). Pilot experiment launched in June 2022.<br/><br/>
-
-<b>Plan</b>: We will adapt the encouragement design based on the June 2022 pilot, and launch a full scaled experiment in September 2022. We will follow job seekers on the long run (6 months, 12 months, 24 months).
+Training programs are famously difficult to evaluate in controlled experiments due to the absence of effective and ethical encouragement devices to increase training take-up rates. In this project, we collaborate with the French Public Employment Services (PES) in order to try various encouragement designs to increase the use of online training programs --- that have been massively developed in the wake of the Covid pandemic. In order to maximize statistical power, we design our questionnaires with the aim to identify sub-populations that are more likely to comply to our encouragement --- that is a combination of some information disclosure on tightness across neighboring labor markets and a decrease of the administrative burden associated to training inscription procedures.
 </small><br><br/></div>
 
-[//]: This java script is the button to show More
+[//]: This java script is the button to show Abstract
 <script>
  function visib(id) {
   var x = document.getElementById(id);
@@ -106,4 +84,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">More</button>
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
