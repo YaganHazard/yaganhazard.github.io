@@ -41,7 +41,7 @@ Suppose a policy maker has to choose (based on quasi-experimental data) how to m
 
 # Labor Economics 
 
-**Directing Job Search: A Large Scale Experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). Draft coming soon.<br/>
+**Encouraging and directing job search: direct and spillover effects in a large scale experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). Draft coming soon.<br/>
 <small>[ <a href="#/" onclick="visib('lbb-job-search')">Abstract</a> ] </small>
 
 <div id="lbb-job-search" style="display: none; text-align: justify; line-height: 1.2" ><small>
