@@ -14,4 +14,4 @@ My work in econometrics is mainly focused on developing efficient estimation and
 
 Prior to my PhD, I obtained an undergaraduate degree in economics from [PSL University](https://www.psl.eu/en), and a master's degree in economics from the Paris School of Economics while studying at the [Ecole Normale Supérieure](https://www.ens.psl.eu/en).
 
-On a more personal note, my way of preserving enthusiasm for my work (and also quite frankly, simply enjoying myself) is mainly through sport climing and trail running with friends. The outdoors bring me peace and energy at the same time!
+On a more personal note, my way of preserving enthusiasm for my work (and also quite frankly, simply enjoying myself) is mainly through sport climing and trail running with friends!
