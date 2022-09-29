@@ -36,12 +36,12 @@ As a follow-up research project, this work consider the setting studied in Hazar
 <small>[ <a href="#/" onclick="visib('EWM-opt-match')">Abstract</a> ] </small>
 
 <div id="EWM-opt-match" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Suppose a policy maker has to choose (based on quasi-experimental data) how to match two types of individuals (e.g., job seekers and caseworkers, students and teachers etc.) to maximize a given measure of output (job finding rate, grades etc.). Following the empirical welfare maximization principle, a feasible decision rule could be to implement the allocation that would yield the highest possible output as estimated from the sample. How well would perform such a decision rule compared to the actual optimal allocation? Earlier work by T. Kitagawa and A. Tetenov (2018) have already derive finite sample guarantees on the performance of such rules for the choice of a binary treatment --- but not for the choice of an entire matching policy, as is the goal of this project. Building on the optimal transport literature, we aim at deriving such bounds in this particular setting.
+Suppose a policy maker has to choose (based on quasi-experimental data) how to match two types of individuals (e.g., job seekers and caseworkers, students and teachers etc.) to maximize a given measure of output (job finding rate, grades etc.). Following the empirical welfare maximization principle, a feasible decision rule could be to implement the allocation that would yield the highest possible output as estimated from the sample. How well would perform such a decision rule compared to the actual optimal allocation? Earlier work by T. Kitagawa and A. Tetenov (2018) have already derive finite sample guarantees on the performance of such rules for the choice of a binary treatment —-- but not for the choice of an entire matching policy, as is the goal of this project. Building on the optimal transport literature, we aim at deriving such bounds in this particular setting.
 </small><br><br/></div>
 
 # Labor Economics 
 
-**Encouraging and directing job search: direct and spillover effects in a large scale experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). Draft coming soon.<br/>
+**Encouraging and directing job search: direct and spillover effects in a large scale experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). Draft available upon request.<br/>
 <small>[ <a href="#/" onclick="visib('lbb-job-search')">Abstract</a> ] </small>
 
 <div id="lbb-job-search" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -69,7 +69,7 @@ How related are different jobs in terms of skills? To what extent training progr
 <small>[ <a href="#/" onclick="visib('RCT-foad')">Abstract</a> ] </small>
 
 <div id="RCT-foad" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Training programs are famously difficult to evaluate in controlled experiments due to the absence of effective and ethical encouragement devices to increase training take-up rates. In this project, we collaborate with the French Public Employment Services (PES) in order to try various encouragement designs to increase the use of online training programs --- that have been massively developed in the wake of the Covid pandemic. In order to maximize statistical power, we design our questionnaires with the aim to identify sub-populations that are more likely to comply to our encouragement --- that is a combination of some information disclosure on tightness across neighboring labor markets and a decrease of the administrative burden associated to training inscription procedures.
+Training programs are famously difficult to evaluate in controlled experiments due to the absence of effective and ethical encouragement devices to increase training take-up rates. In this project, we collaborate with the French Public Employment Services (PES) in order to try various encouragement designs to increase the use of online training programs &mdash that have been massively developed in the wake of the Covid pandemic. In order to maximize statistical power, we design our questionnaires with the aim to identify sub-populations that are more likely to comply to our encouragement &mdash that is a combination of some information disclosure on tightness across neighboring labor markets and a decrease of the administrative burden associated to training inscription procedures.
 </small><br><br/></div>
 
 [//]: This java script is the button to show Abstract
