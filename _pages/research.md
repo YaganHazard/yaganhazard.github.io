@@ -41,11 +41,13 @@ Suppose a policy maker has to choose (based on quasi-experimental data) how to m
 
 # Labor Economics 
 
-**Encouraging and directing job search: direct and spillover effects in a large scale experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). Draft available upon request.<br/>
-<small>[ <a href="#/" onclick="visib('lbb-job-search')">Abstract</a> ] </small>
+**Encouraging and directing job search: direct and spillover effects in a large scale experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). <br/>
+<small>[ <a href="#/" onclick="visib('lbb-job-search')">Abstract</a> | Draft available upon request. ] </small>
 
 <div id="lbb-job-search" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We analyze the employment effects of directing job seekers' applications towards establishments likely to recruit, building upon an existing Internet platform developed by the French public employment service. Our two-sided randomization design, with about 1.2 million job seekers and 100,000 establishments, allows us to precisely measure the activation and redirection effects of the recommender system at hand. Indeed, aside from the overall effect on employment of our intervention --- a 2\% increase in job finding rates for women, who appear to be more activated by our treatment --- part of our design aimed at reallocating the workforce from slack to tight markets in order to reduce the occupational mismatch. Drawing on the recent literature on the econometrics of interference effects, we estimate that by redirecting the search effort of some job seekers outside their initial job market, we reduced congestion (on the job seekers' side) in slack markets. This effect is partly offset by the increased competition in initially tight markets, yet the magnitude of such congestion suggest a net gain from our reorientation intervention.
+We analyze the employment effects of directing job seekers' applications towards establishments likely to recruit, building upon an existing Internet platform developed by the French public employment service. Our two-sided randomization design, with about 1.2 million job seekers and 100,000 establishments, allows us to precisely measure the effects of the recommender system at hand. Our randomized encouragement to use the system induces a 2\% increase in job finding rates among women. This effect is due to an activation effect (increased search effort, stronger for women than men), but also to a targeting effect by which treated men and women were more likely to be hired by the firms that were specifically recommended to them. 
+
+In a second step, we analyze whether these partial equilibrium effects translate into positive effects on aggregate employment. Drawing on the recent literature on the econometrics of interference effects, we estimate that by redirecting the search effort of some job seekers outside their initial job market, we reduced congestion in slack markets. Estimates suggest that this effect is only partly offset by the increased competition in initially tight markets, so that the intervention increases aggregate job finding rates.
 </small><br><br/></div>
 
 
@@ -69,7 +71,7 @@ How related are different jobs in terms of skills? To what extent training progr
 <small>[ <a href="#/" onclick="visib('RCT-foad')">Abstract</a> ] </small>
 
 <div id="RCT-foad" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Training programs are famously difficult to evaluate in controlled experiments due to the absence of effective and ethical encouragement devices to increase training take-up rates. In this project, we collaborate with the French Public Employment Services (PES) in order to try various encouragement designs to increase the use of online training programs &mdash that have been massively developed in the wake of the Covid pandemic. In order to maximize statistical power, we design our questionnaires with the aim to identify sub-populations that are more likely to comply to our encouragement &mdash that is a combination of some information disclosure on tightness across neighboring labor markets and a decrease of the administrative burden associated to training inscription procedures.
+Training programs are famously difficult to evaluate in controlled experiments due to the absence of effective and ethical encouragement devices to increase training take-up rates. In this project, we collaborate with the French Public Employment Services (PES) in order to try various encouragement designs to increase the use of online training programs --- that have been massively developed in the wake of the Covid pandemic. In order to maximize statistical power, we design our questionnaires with the aim to identify sub-populations that are more likely to comply to our encouragement --- that is a combination of some information disclosure on tightness across neighboring labor markets and a decrease of the administrative burden associated to training inscription procedures.
 </small><br><br/></div>
 
 [//]: This java script is the button to show Abstract
