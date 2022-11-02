@@ -42,13 +42,15 @@ Suppose a policy maker has to choose (based on quasi-experimental data) how to m
 # Labor Economics 
 
 **Encouraging and directing job search: direct and spillover effects in a large scale experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). <br/>
-<small>[ <a href="#/" onclick="visib('lbb-job-search')">Abstract</a> | Draft available upon request. ] </small>
+<small>[ <a href="#/" onclick="visib('lbb-job-search')">Abstract</a> | [Preliminary draft][2] ] </small>
 
 <div id="lbb-job-search" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We analyze the employment effects of directing job seekers' applications towards establishments likely to recruit, building upon an existing Internet platform developed by the French public employment service. Our two-sided randomization design, with about 1.2 million job seekers and 100,000 establishments, allows us to precisely measure the effects of the recommender system at hand. Our randomized encouragement to use the system induces a 2\% increase in job finding rates among women. This effect is due to an activation effect (increased search effort, stronger for women than men), but also to a targeting effect by which treated men and women were more likely to be hired by the firms that were specifically recommended to them. 
 
 In a second step, we analyze whether these partial equilibrium effects translate into positive effects on aggregate employment. Drawing on the recent literature on the econometrics of interference effects, we estimate that by redirecting the search effort of some job seekers outside their initial job market, we reduced congestion in slack markets. Estimates suggest that this effect is only partly offset by the increased competition in initially tight markets, so that the intervention increases aggregate job finding rates.
 </small><br><br/></div>
+[2]: {{ site.baseurl }}{% link assets/files/LBB-preliminarydraft.pdf %}
+
 
 
 **Evaluating the effect of training programs on occupational transitions: a correspondence study** (with G. Azmat, L. Behaghel, R. Rathelot and J. Sultan).<br/>
