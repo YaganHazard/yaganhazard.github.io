@@ -61,7 +61,7 @@ To which extent can short and/or long training programs help in moving from slac
 </small><br><br/></div>
 
 
-**Measuring occupational distances and the aggregate potential of training policies for labor force reallocation** (with D. Mayaux and T. Zuber).<br/>
+**Measuring occupational distances and the aggregate potential of training policies for labor force reallocation** (with D. Mayaux, K. M. Frick and T. Zuber).<br/>
 <small>[ <a href="#/" onclick="visib('occ-distance-training')">Abstract</a> ] </small>
 
 <div id="occ-distance-training" style="display: none; text-align: justify; line-height: 1.2" ><small>
