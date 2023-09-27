@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Collegio Carlo Alberto and the University of Turin (ESOMAS).
+I am an Assistant Professor at the [Collegio Carlo Alberto](https://www.carloalberto.org/about/) and the University of Turin (ESOMAS).
 
 My research interests lie in both econometrics and labor economics. My work in econometrics is mainly focused on developing efficient estimation and inference methods for causal parameters (in particular, [the LATE parameter](https://www.jstor.org/stable/2951620)). Beside this research agenda, I have strong interests in labor economics. My work in this area focuses on measuring the effectiveness of public policies (e.g., tailored job search counseling and training programs) to guide and foster occupational transitions.
 
