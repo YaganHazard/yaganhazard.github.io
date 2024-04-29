@@ -41,15 +41,13 @@ Suppose a policy maker has to choose (based on quasi-experimental data) how to m
 
 # Labor Economics 
 
-**Encouraging and directing job search: direct and spillover effects in a large scale experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). <br/>
-<small>[ <a href="#/" onclick="visib('lbb-job-search')">Abstract</a> | [Preliminary draft][2] ] </small>
+**The Potential of Recommender Systems for Directing Job Search: A Large-Scale Experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). *Revise and Resubmit, Econometrica*. <br/>
+<small>[ <a href="#/" onclick="visib('lbb-job-search')">Abstract</a> | [Draft][2] ] </small>
 
 <div id="lbb-job-search" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We analyze the employment effects of directing job seekers' applications towards establishments likely to recruit, building upon an existing Internet platform developed by the French public employment service. Our two-sided randomization design, with about 1.2 million job seekers and 100,000 establishments, allows us to precisely measure the effects of the recommender system at hand. Our randomized encouragement to use the system induces a 2\% increase in job finding rates among women. This effect is due to an activation effect (increased search effort, stronger for women than men), but also to a targeting effect by which treated men and women were more likely to be hired by the firms that were specifically recommended to them. 
-
-In a second step, we analyze whether these partial equilibrium effects translate into positive effects on aggregate employment. Drawing on the recent literature on the econometrics of interference effects, we estimate that by redirecting the search effort of some job seekers outside their initial job market, we reduced congestion in slack markets. Estimates suggest that this effect is only partly offset by the increased competition in initially tight markets, so that the intervention increases aggregate job finding rates.
+We analyze the employment effects of directing job seekers’ applications toward establishments likely to recruit. We run a two-sided randomization design involving about 800,000 job seekers and 40,000 establishments, based on an empirical model that recommends each job seeker to firms so as to maximize total potential employment. Our intervention induces a 1% increase in job finding rates for short term contracts. This impact comes from a targeting effect combining (i) a modest increase in job seekers’ applications to the very firms that were recommended to them, and (ii) a high success rate conditional on applying to these firms. Indeed, the success rate of job seekers’ applications varies considerably across firms: the efficiency of applications sent to recommended firms is 2.7 times higher than the efficiency of applications to the average firm. This suggests that there can be substantial gains from better targeting job search, leveraging firm-level heterogeneity.
 </small><br><br/></div>
-[2]: {{ site.baseurl }}{% link assets/files/LBB-preliminarydraft.pdf %}
+[2]: {{ site.baseurl }}{% link assets/files/LBB-draft.pdf %}
 
 
 
