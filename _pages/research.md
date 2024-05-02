@@ -11,13 +11,11 @@ permalink: /research/
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-# <center> Work in progress </center>
-- - -
 
 # Econometrics 
 
 **Improving LATE estimation in experiments with imperfect compliance** (with S. Loewe). *Submitted*. <br/>
-<small>[ <a href="#/" onclick="visib('improve-late')">Abstract</a> | [Job Market Paper][1] ]  </small>
+<small>[ <a href="#/" onclick="visib('improve-late')">Abstract</a> | [Draft][1] ]  </small>
 
 <div id="improve-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The evaluation of many policies of interest (e.g., educational and training programs) inevitably face incomplete treatment group take-up. Estimation of causal effects in these controlled or natural ``experiments with imperfect compliance’’ usually relies on an Instrumental Variable (IV) strategy, which often yields imprecise and thus possibly uninformative inference when compliance rates are low. We tackle this problem by proposing a Test-and-Select estimator that exploits covariate information to restrict estimation to a subpopulation with non-zero compliance. We derive the asymptotic properties of our proposed estimator under standard and weak-IV-like asymptotics, and study its finite sample properties in Monte Carlo simulations. We provide conditions under which it dominates the usual 2SLS estimator in terms of precision. Under an assumption on the degree of treatment effect heterogeneity, our estimator remains first-order unbiased with respect to the Local Average Treatment Effect (LATE) estimand, setting it apart from alternatives in the burgeoning literature on the use of first-stage heterogeneity to improve the precision of IV estimators. This robustness to treatment effect heterogeneity and the potential for precision gains is illustrated using Monte Carlo simulations and two empirical applications. Applying our methodology to the returns to schooling example (where compulsory schooling laws serve as instruments for educational attainment), we document that our methodology reduces standard errors by 12% to 48% depending on specifications.
@@ -38,6 +36,8 @@ As a follow-up research project, this work consider the setting studied in Hazar
 <div id="EWM-opt-match" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Suppose a policy maker has to choose (based on quasi-experimental data) how to match two types of individuals (e.g., job seekers and caseworkers, students and teachers etc.) to maximize a given measure of output (job finding rate, grades etc.). Following the empirical welfare maximization principle, a feasible decision rule could be to implement the allocation that would yield the highest possible output as estimated from the sample. How well would perform such a decision rule compared to the actual optimal allocation? Earlier work by T. Kitagawa and A. Tetenov (2018) have already derive finite sample guarantees on the performance of such rules for the choice of a binary treatment —-- but not for the choice of an entire matching policy, as is the goal of this project. Building on the optimal transport literature, we aim at deriving such bounds in this particular setting.
 </small><br><br/></div>
+
+- - -
 
 # Labor Economics 
 
