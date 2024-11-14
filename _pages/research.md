@@ -23,7 +23,7 @@ We analyze the employment effects of directing job seekers’ applications towar
 [2]: {{ site.baseurl }}{% link assets/files/LBB-draft.pdf %}
 
 
-**Improving LATE estimation in experiments with imperfect compliance** (with S. Loewe). *Submitted*. <br/>
+**Improving LATE Estimation in Experiments with Imperfect Compliance** (with S. Loewe). *Submitted*. <br/>
 <small>[ <a href="#/" onclick="visib('improve-late')">Abstract</a> | [Draft][1] ]  </small>
 
 <div id="improve-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -36,7 +36,7 @@ The evaluation of many policies of interest (e.g., educational and training prog
 
 # Selected Work in Progress
 
-**Empirical welfare maximization and optimal matching policies** (with T. Kitagawa). <br/>
+**Empirical Welfare Maximization and Optimal Matching Policies** (with T. Kitagawa). <br/>
 <small>[ <a href="#/" onclick="visib('EWM-opt-match')">Abstract</a> ] </small>
 
 <div id="EWM-opt-match" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -44,7 +44,7 @@ Suppose a policy maker has to choose (based on quasi-experimental data) how to m
 </small><br><br/></div>
 
 
-**Exploiting bounded treatment effect heterogeneity for improved inference in (quasi-)experiments with imperfect compliance** (with X. D'Haultfoeuille and S. Loewe). <br/>
+**Exploiting Bounded Treatment Effect Heterogeneity for Improved Inference in (Quasi-)Experiments with Imperfect Compliance** (with X. D'Haultfoeuille and S. Loewe). <br/>
 <small>[ <a href="#/" onclick="visib('bias-aware-late')">Abstract</a> ] </small>
 
 <div id="bias-aware-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -60,7 +60,7 @@ We investigate the value of retraining programs in facilitating the mobility of 
 </small><br><br/></div>
 
 
-**Measuring occupational distances and the aggregate potential of training policies for labor force reallocation** (with D. Mayaux, K. M. Frick and T. Zuber). *Draft coming soon*. <br/>
+**Measuring Occupational Distances and the Aggregate Potential of Training Policies for Labor Force Reallocation** (with D. Mayaux, K. M. Frick and T. Zuber). *Draft coming soon*. <br/>
 <small>[ <a href="#/" onclick="visib('occ-distance-training')">Abstract</a> ] </small>
 
 <div id="occ-distance-training" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -68,7 +68,7 @@ How related are different jobs in terms of skills? To what extent training progr
 </small><br><br/></div>
 
 
-**Evaluating the effect of training programs and the accuracy of training allocation for the unemployed: an examiner design approach** (with P. Arni, L. Behaghel, M. Gurgand, R. Rathelot and T. Zuber).<br/>
+**Evaluating the Effect of Training Programs for the Unemployed: an Examiner Design Approach** (with P. Arni, L. Behaghel, M. Gurgand, R. Rathelot and T. Zuber).<br/>
 <small>[ <a href="#/" onclick="visib('RCT-foad')">Abstract (early stage project) </a> ] </small>
 
 <div id="RCT-foad" style="display: none; text-align: justify; line-height: 1.2" ><small>
