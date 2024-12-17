@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # Working Papers
 
-**The Potential of Recommender Systems for Directing Job Search: A Large-Scale Experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). *Revise and Resubmit, Econometrica*. <br/>
+**The Potential of Recommender Systems for Directing Job Search: A Large-Scale Experiment** (with L. Behaghel, M. Gurgand, S. Dromundo and T. Zuber). *Conditionally accepted, Econometrica*. <br/>
 <small>[ <a href="#/" onclick="visib('lbb-job-search')">Abstract</a> | [Draft][2] ] </small>
 
 <div id="lbb-job-search" style="display: none; text-align: justify; line-height: 1.2" ><small>
