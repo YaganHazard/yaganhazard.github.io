@@ -68,7 +68,7 @@ How related are different jobs in terms of skills? To what extent training progr
 </small><br><br/></div>
 
 
-**Evaluating the Effect of Training Programs for the Unemployed: an Examiner Design Approach** (with P. Arni, L. Behaghel, M. Gurgand, R. Rathelot and T. Zuber).<br/>
+**Evaluating the Effect of Training Programs for the Unemployed: an Examiner Design Approach** (with L. Behaghel, M. Gurgand, U. Oyon Lerga).<br/>
 <small>[ <a href="#/" onclick="visib('RCT-foad')">Abstract (early stage project) </a> ] </small>
 
 <div id="RCT-foad" style="display: none; text-align: justify; line-height: 1.2" ><small>
