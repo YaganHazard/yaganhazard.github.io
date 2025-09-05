@@ -23,7 +23,7 @@ We analyze the employment effects of directing job seekers’ applications towar
 [2]: {{ site.baseurl }}{% link assets/files/LBB-draft.pdf %}
 
 
-**Improving LATE Estimation in Experiments with Imperfect Compliance** (with S. Loewe). *Submitted*. <br/>
+**Improving LATE Estimation in Experiments with Imperfect Compliance** (with S. Loewe). <br/>
 <small>[ <a href="#/" onclick="visib('improve-late')">Abstract</a> | [Draft][1] ]  </small>
 
 <div id="improve-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -31,24 +31,24 @@ The evaluation of many policies of interest (e.g., educational and training prog
 </small><br><br/></div>
 [1]: {{ site.baseurl }}{% link assets/files/LATEPS_JMP.pdf %}
 
+**Who With Whom? Learning Optimal Matching Policies** (with T. Kitagawa). <br/>
+<small>[ <a href="#/" onclick="visib('EWM-opt-match')">Abstract</a> | [Draft][whowithwho-arxiv] ] </small>
+
+<div id="EWM-opt-match" style="display: none; text-align: justify; line-height: 1.2" ><small>
+There are many economic contexts where the productivity and welfare performance of institutions and policies depend on who matches with whom. Examples include caseworkers and job seekers in job search assistance programs, medical doctors and patients, teachers and students, attorneys and defendants, and tax auditors and taxpayers, among others. Although reallocating individuals through a change in matching policy can be less costly than training personnel or introducing a new program, methods for learning optimal matching policies and their statistical performance are less studied than methods for other policy interventions. This paper develops a method to learn welfare optimal matching policies for two-sided matching problems in which a planner matches individuals based on the rich set of observable characteristics of the two sides. We formulate the learning problem as an empirical optimal transport problem with a match cost function estimated from training data, and propose estimating an optimal matching policy by maximizing the entropy regularized empirical welfare criterion. We derive a welfare regret bound for the estimated policy and characterize its convergence. We apply our proposal to the problem of matching caseworkers and job seekers in a job search assistance program, and assess its welfare performance in a simulation study calibrated with French administrative data.
+</small><br><br/></div>
+[whowithwhom-arxiv]: https://arxiv.org/pdf/2507.13567
 
 - - -
 
 # Selected Work in Progress
 
-**Empirical Welfare Maximization and Optimal Matching Policies** (with T. Kitagawa). <br/>
-<small>[ <a href="#/" onclick="visib('EWM-opt-match')">Abstract</a> ] </small>
 
-<div id="EWM-opt-match" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Suppose a policy maker has to choose (based on quasi-experimental data) how to match two types of individuals (e.g., job seekers and caseworkers, students and teachers etc.) to maximize a given measure of output (job finding rate, grades etc.). Following the empirical welfare maximization principle, a feasible decision rule could be to implement the allocation that would yield the highest possible output \textit{as estimated from the sample}. How well would perform such a decision rule compared to the \textit{actual} optimal allocation? Earlier work by T. Kitagawa and A. Tetenov (2018) have already derive finite sample guarantees on the performance of such rules for the choice of a binary treatment --- but not for the choice of an entire matching policy, as is the goal of this project. Building on the optimal transport literature, we aim at deriving such bounds in this particular setting. We then plan to apply the method using exhaustive administrative data on the quasi-random matching of job seekers to caseworkers in France, in order to document the potential gains from learning about the optimal matching policy in that context.
-</small><br><br/></div>
-
-
-**Exploiting Bounded Treatment Effect Heterogeneity for Improved Inference in (Quasi-)Experiments with Imperfect Compliance** (with X. D'Haultfoeuille and S. Loewe). <br/>
+**Exploiting Bounded Treatment Effect Heterogeneity for Improved Inference in (Quasi-)Experiments with Imperfect Compliance** (with X. D'Haultfoeuille, P. Ketz and S. Loewe). <br/>
 <small>[ <a href="#/" onclick="visib('bias-aware-late')">Abstract</a> ] </small>
 
 <div id="bias-aware-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
-As a follow-up research project, this work consider the setting studied in Hazard and Löwe (2024, see above) under a bounded treatment effect heterogeneity assumption. Relying on the constraints imposed by the LATE (Angrist and Imbens, 1994) identifying assumption on the joint distribution of the reduced form and first-stage estimands, we propose a novel estimator based on a projection of empirical moments on the constraint with a high potential for reduction in RMSE. Inference results based on resampling methods---taking into account the bias of the estimator as well as the challenge raised by inference at the border of the parameter space---are currently being developed, with encouraging results in Monte-Carlo simulations and candidate applications.
+As a follow-up research project to Hazard and Loewe (2024), this work consider the same setting while adding a bounded treatment effect heterogeneity assumption. Relying on the constraints imposed by the LATE (Angrist and Imbens, 1994) identifying assumption on the joint distribution of the reduced form and first-stage estimands, we propose a novel estimator based on a projection of empirical moments on the constraint with a high potential for reduction in RMSE. Inference results based on resampling methods---taking into account the bias of the estimator as well as the challenge raised by inference at the border of the parameter space---are currently being developed, with encouraging results in Monte-Carlo simulations and candidate applications.
 </small><br><br/></div>
 
 
