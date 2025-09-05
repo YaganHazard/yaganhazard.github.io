@@ -37,7 +37,7 @@ The evaluation of many policies of interest (e.g., educational and training prog
 <div id="EWM-opt-match" style="display: none; text-align: justify; line-height: 1.2" ><small>
 There are many economic contexts where the productivity and welfare performance of institutions and policies depend on who matches with whom. Examples include caseworkers and job seekers in job search assistance programs, medical doctors and patients, teachers and students, attorneys and defendants, and tax auditors and taxpayers, among others. Although reallocating individuals through a change in matching policy can be less costly than training personnel or introducing a new program, methods for learning optimal matching policies and their statistical performance are less studied than methods for other policy interventions. This paper develops a method to learn welfare optimal matching policies for two-sided matching problems in which a planner matches individuals based on the rich set of observable characteristics of the two sides. We formulate the learning problem as an empirical optimal transport problem with a match cost function estimated from training data, and propose estimating an optimal matching policy by maximizing the entropy regularized empirical welfare criterion. We derive a welfare regret bound for the estimated policy and characterize its convergence. We apply our proposal to the problem of matching caseworkers and job seekers in a job search assistance program, and assess its welfare performance in a simulation study calibrated with French administrative data.
 </small><br><br/></div>
-[whowithwhom-arxiv]: https://arxiv.org/pdf/2507.13567
+[whowithwhom-arxiv]: https://arxiv.org/pdf/2507.13567.pdf
 
 - - -
 
