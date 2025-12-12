@@ -23,7 +23,7 @@ We analyze the employment effects of directing job seekers’ applications towar
 [2]: {{ site.baseurl }}{% link assets/files/LBB-draft.pdf %}
 
 
-**Improving LATE Estimation in Experiments with Imperfect Compliance** (with S. Loewe). <br/>
+**Improving LATE Estimation in Experiments with Imperfect Compliance** (with S. Loewe). 2024. <br/>
 <small>[ <a href="#/" onclick="visib('improve-late')">Abstract</a> | [Draft][1] ]  </small>
 
 <div id="improve-late" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -31,15 +31,38 @@ The evaluation of many policies of interest (e.g., educational and training prog
 </small><br><br/></div>
 [1]: {{ site.baseurl }}{% link assets/files/LATEPS_JMP.pdf %}
 
-**Who With Whom? Learning Optimal Matching Policies** (with T. Kitagawa). <br/>
+**Who With Whom? Learning Optimal Matching Policies** (with T. Kitagawa). 2025. <br/>
 <small>[ <a href="#/" onclick="visib('EWM-opt-match')">Abstract</a> | [Draft](https://arxiv.org/pdf/2507.13567) ] </small>
 
 <div id="EWM-opt-match" style="display: none; text-align: justify; line-height: 1.2" ><small>
 There are many economic contexts where the productivity and welfare performance of institutions and policies depend on who matches with whom. Examples include caseworkers and job seekers in job search assistance programs, medical doctors and patients, teachers and students, attorneys and defendants, and tax auditors and taxpayers, among others. Although reallocating individuals through a change in matching policy can be less costly than training personnel or introducing a new program, methods for learning optimal matching policies and their statistical performance are less studied than methods for other policy interventions. This paper develops a method to learn welfare optimal matching policies for two-sided matching problems in which a planner matches individuals based on the rich set of observable characteristics of the two sides. We formulate the learning problem as an empirical optimal transport problem with a match cost function estimated from training data, and propose estimating an optimal matching policy by maximizing the entropy regularized empirical welfare criterion. We derive a welfare regret bound for the estimated policy and characterize its convergence. We apply our proposal to the problem of matching caseworkers and job seekers in a job search assistance program, and assess its welfare performance in a simulation study calibrated with French administrative data.
 </small><br><br/></div>
 
+**Occupational Mobility and Retraining: Experimental Evidence on Firms’ Hiring Preferences** (with G. Azmat, L. Behaghel, R. Rathelot and J. Sultan). 2025. <br/>
+<small>[ <a href="#/" onclick="visib('CS-study-training')">Abstract</a> | [Draft][3] ] </small>
+
+<div id="CS-study-training" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Governments typically address occupational mismatch through two types of interventions: (i) redirection policies, which nudge workers toward tighter labor markets, and (ii) retraining policies, which aim to bridge skill gaps. To assess the effectiveness of these policies in a unique setting, we conducted a large-scale correspondence experiment in France, sending 6,668 fictitious applications across six tight occupations and randomly varying applicants’ training and experience. We find that candidates with both initial training and experience in the target occupation received the highest callback rate, followed closely by movers who completed long retraining programs. Short-retraining and untrained movers received half as many callbacks. We also find that the retraining premium increases with the tightness in the local labor market. These results clarify the relative effectiveness of redirection versus retraining policies; we conclude by discussing the conditions under which the costs of these two policy instruments for the government are offset by savings on unemployment benefits.
+</small><br><br/></div>
+[3]: {{ site.baseurl }}{% link assets/files/TESTING_IBC-draft.pdf %}
+
 
 - - -
+
+# Publications
+
+**Skill Distance Between Occupations and Post‑Training Professional Transitions of Jobseekers** (with D. Mayaux, K. M. Frick and T. Zuber). 2025. *Economics and Statistics*. <br/>
+<small>[ <a href="#/" onclick="visib('occ-distance-training')">Abstract</a> | [Draft][4] ] </small>
+
+<div id="occ-distance-training" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Does vocational training help correct structural imbalances in the labour market? We propose a new measure of the skills distance between occupations, obtained by fine-tuning a large language model on a sample of job offers. Using this method, we demonstrate that the "return to employment" differential between jobseekers with and without training is driven by a reallocation of workers towards occupations that are very different from their previous posts in terms of the skills required. From a purely reallocative perspective, however, the return to employment differential associated with vocational training does not appear to be driven by more jobseekers moving to occupations where employers are struggling to recruit.
+</small><br><br/></div>
+[4]: {{ site.baseurl }}{% link assets/files/SKILL_DIST-draft.pdf %}
+
+
+
+- - -
+
 
 # Selected Work in Progress
 
@@ -51,21 +74,6 @@ There are many economic contexts where the productivity and welfare performance 
 As a follow-up research project to Hazard and Loewe (2024), this work consider the same setting while adding a bounded treatment effect heterogeneity assumption. Relying on the constraints imposed by the LATE (Angrist and Imbens, 1994) identifying assumption on the joint distribution of the reduced form and first-stage estimands, we propose a novel estimator based on a projection of empirical moments on the constraint with a high potential for reduction in RMSE. Inference results based on resampling methods---taking into account the bias of the estimator as well as the challenge raised by inference at the border of the parameter space---are currently being developed, with encouraging results in Monte-Carlo simulations and candidate applications.
 </small><br><br/></div>
 
-
-**The Impact of Retraining Programs on Firms’ Labor Demand and Occupational Mobility** (with G. Azmat, L. Behaghel, R. Rathelot and J. Sultan). *Draft coming soon*. <br/>
-<small>[ <a href="#/" onclick="visib('CS-study-training')">Abstract</a> ] </small>
-
-<div id="CS-study-training" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We investigate the value of retraining programs in facilitating the mobility of workers into occupations in high demand. By sending 5,000 fictitious job applications to firms posting ads in six tight labor market occupations, we randomly vary the candidates' training and experience to compare labor demand for four profiles, all aged 21: an \textit{incumbent} with both initial training and experience in the posted occupation, and three \textit{movers} who initially trained and worked in a neighboring, less tight occupation. The movers differ by the extent of retraining they have undergone for the target occupation. Callback rates vary significantly, with the \textit{incumbent} receiving the highest callbacks, closely followed by the \textit{long-retraining mover} who underwent several weeks or months of retraining (59\% and 51\% callback rates, respectively). \textit{Untrained movers} and \textit{short-retraining movers} have significantly lower callback rates (30\%). We develop and test a matching model, predicting that the effect of retraining on callbacks should increase and then decrease with labor market tightness. Using geographic variation in tightness, we find that even in the tight labor markets studied, the effect of retraining on callbacks continues to increase with rising tightness.
-</small><br><br/></div>
-
-
-**Measuring Occupational Distances and the Aggregate Potential of Training Policies for Labor Force Reallocation** (with D. Mayaux, K. M. Frick and T. Zuber). *Draft coming soon*. <br/>
-<small>[ <a href="#/" onclick="visib('occ-distance-training')">Abstract</a> ] </small>
-
-<div id="occ-distance-training" style="display: none; text-align: justify; line-height: 1.2" ><small>
-How related are different jobs in terms of skills? To what extent training programs allow to move across jobs that differ in skills, and to what extent can this reduce the ``mismatch'' unemployment --- i.e., the unemployment due to unbalances in labor demand vs. supply across occupations? The existing literature often answered the first question based on expert knowledge and existing job classification systems (O*NET, ROME classification in France etc.). Instead, we propose to build new measures of skill proximity across jobs based on job descriptions from vacancy data --- using state-of-the-art Natural Language Processing (NLP) techniques. Making use of the skill distance measure produced, we describe the labor supply reallocations associated with the use of training programs by french job seekers --- using comprehensive administrative data on unemployment spells, training use and employer-employee data. Comparing such occupational transitions in relationship with labor market tightness measures, we aim to assess the extent to which public funded training programs contribute to the reduction of mismatch unemployment.
-</small><br><br/></div>
 
 
 **Evaluating the Effect of Training Programs for the Unemployed: an Examiner Design Approach** (with L. Behaghel, M. Gurgand, U. Oyon Lerga).<br/>
