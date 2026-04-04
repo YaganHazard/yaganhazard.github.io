@@ -19,6 +19,8 @@ The class of Monday, Feb. 16 will only run from 17:30 to 19:00. For the first ha
 - `Hull and Borusyak, 2024. Negative Weights Are No Concern in Design-Based Specifications` - [paper](/files/slides/class-2026-8f3b7a2c/bh_p&p_final.pdf) [appendix](/files/slides/class-2026-8f3b7a2c/neg_weights_appendix.pdf)
 
 {% comment %}
+webpage link : https://yaganhazard.github.io/s/class-2026-8f3b7a2c/
+
 - `Lecture 02` — [lecture-02.pdf](/files/slides/class-2026-8f3b7a2c/lecture-02.pdf)
 
 ## How To Update
